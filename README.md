@@ -37,6 +37,11 @@ the other game clients retain their existing action bars. The foundation still s
 Vision Pro. See the [player guide](docs/guide.md) and [touch-bar guide](addon/SPTouchBars/README.md)
 for controls and configuration.
 
+To use the touch bars with another Slashplayed fork, Wolkara, or a regular WoW installation,
+download the standalone [Touchbars addon from CurseForge](https://www.curseforge.com/wow/addons/touchbars).
+For GeForce NOW, availability depends on [NVIDIA's supported addon catalog](https://nvidia.custhelp.com/app/answers/detail/a_id/5567);
+a CurseForge listing alone does not make an addon available there.
+
 <details>
 <summary><strong>See the touch-bar editor in action</strong></summary>
 
